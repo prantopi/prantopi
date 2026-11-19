@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm prantopi</h1>
+<h1 align="center">Hi, I'm Iftekhar Pranto</h1>
 
 <p align="center">
   IT student at Southern Cross University, Australia. I build developer tools for AI coding agents and train machine learning models.
