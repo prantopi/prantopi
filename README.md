@@ -32,8 +32,18 @@
 
 | Project | What it does | Result |
 |---|---|---|
-| [Handwritten digit recognition](https://github.com/prantopi/Predicting-Handwriten-digit-using-neural-network-) | Keras and scikit-learn neural networks on MNIST | 97.6% test accuracy |
-| [Diabetes prediction](https://github.com/prantopi/Diabetic-prediction-) | Logistic regression on 100,000 patient records | 96.0% accuracy |
+| [Handwritten digit recognition](https://github.com/prantopi/handwritten-digit-recognition) | Keras and scikit-learn neural networks on MNIST | 97.6% test accuracy |
+| [Diabetes prediction](https://github.com/prantopi/diabetes-prediction) | Logistic regression on 100,000 patient records | 96.0% accuracy |
+
+### Private projects
+
+The code for these isn't public, but I'm happy to walk through it in an interview.
+
+| Project | What it is | Stack |
+|---|---|---|
+| **AppealMate AU** | Web app that reads a photo of an Australian parking fine, works out the grounds for review and drafts the appeal letter | Next.js, TypeScript, Claude API, Supabase, Stripe |
+| **Shiftfloat** | Multi-store retail sales tracking and reconciliation, with tenant data kept separate by Postgres row-level security | React, Vite, Supabase (Postgres, Auth, Edge Functions) |
+| **ResistPCOS** *(in progress)* | iOS app that helps people manage PCOS | Swift, Core ML, Supabase, Claude API |
 
 ### Currently
 
